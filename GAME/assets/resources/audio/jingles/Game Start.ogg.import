@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Game Start.ogg-10acd0ec8bf5db20f09fb868f886abad.oggstr"
+
+[deps]
+
+source_file="res://assets/resources/audio/jingles/Game Start.ogg"
+dest_files=[ "res://.import/Game Start.ogg-10acd0ec8bf5db20f09fb868f886abad.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
